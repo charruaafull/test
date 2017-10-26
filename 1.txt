@@ -1,0 +1,12 @@
+Induccion
+metodo simplex - maximo
+
+
+PLC
+se fija si tiene un ultimo pedido en el PUC_PLC_CHA, se fija si existe ese pedido de corte
+y lee el apchaitm.
+lo mismo produccion, copio tal cual
+
+
+
+TENGA O NO TENGA PEDIDO EL PRECIO VIENE DE PRE_PLC_CHA Y LA REV TAMBIEN
